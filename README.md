@@ -1,3 +1,12 @@
+See below for Michael Nielsen's original README.md
+
+
+
+
+
+
+
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
